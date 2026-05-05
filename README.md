@@ -18,3 +18,5 @@ Daily Python projects built while learning.
 
 | DAY 2  | Pandas CSV analysis – student data |
 
+| DAY 3 | Exoplanet data analysis – seaborn visualizations |
+
